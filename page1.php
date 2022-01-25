@@ -4,7 +4,6 @@
         </head>
         <body>
                 <h1>ประวัติส่วนตัว</h1>
-        <body>
         <body bgcolor="lightblue"
                 <b>ชื่อ :</b> <i> กัญญาวีร์ ชัยสิทธิ์ </i>
                 <br>

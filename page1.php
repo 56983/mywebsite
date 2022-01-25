@@ -2,8 +2,10 @@
         <head>
                 <title>งาน1</title>
         </head>
+        <body>
                 <h1>ประวัติส่วนตัว</h1>
-        <body bgcolor="lightblue">
+        <body>
+        <body bgcolor="lightblue"
                 <b>ชื่อ : </b> <i> กัญญาวีร์ ชัยสิทธิ์
                 <br>
                 <b>ชื่อเล่น : </b> <i> แฟง

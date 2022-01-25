@@ -8,7 +8,7 @@
         <body bgcolor="lightblue"
                 <b>ชื่อ : </b> <i> กัญญาวีร์ ชัยสิทธิ์
                 <br>
-        <body>
+                <hr>
                 <b>ชื่อเล่น : </b> <i> แฟง
                 <br>
         <body>       

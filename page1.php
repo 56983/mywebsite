@@ -1,7 +1,8 @@
 <html>
         <head>
-                <title>ประวัติส่วนตัว</title>
+                <title>งาน1</title>
         </head>
+                <h1>ประวัติส่วนตัว</h1>
         <body bgcolor="lightblue">
                 <b>ชื่อ : </b> <i> กัญญาวีร์ ชัยสิทธิ์
                 <br>

@@ -21,6 +21,6 @@
           <td>2</td>
         <td>วัชรพล นนท์ภักดี</td>
         <td>ปาร์ตี้</td>
-        <td><img src="https://jelly-site.s3.amazonaws.com/uploads/ckeditor/pictures/30633/content_P1220512-Edit.jpg" width="200px"></td>
+        <td><img src="https://jelly-site.s3.amazonaws.com/uploads/ckeditor/pictures/30633/content_P1220512-Edit.jpg" width="160px"></td>
         <td><a href="https://twitter.com/papapartyv">twitter</a></td>
          

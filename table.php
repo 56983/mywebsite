@@ -17,10 +17,17 @@
         <td>สไปรท์ บะบะบิ </td>
         <td><img src="https://sv1.siamnews.com/img_1/13/210923pxo9i.jpg" width="145px"></td>
         <td><a href="https://twitter.com/SpriteBABABI?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">twitter</a></td>
-       <tr>
-          <td>2</td>
+      <tr>
+        <td>2</td>
         <td>วัชรพล นนท์ภักดี</td>
         <td>ปาร์ตี้</td>
         <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjLINb5m1R2SoueOVkREzYz6tTazCyN9Ok7g&usqp=CAU" width="145px"></td>
         <td><a href="https://twitter.com/papapartyv">twitter</a></td>
+      <tr>
+        <td>3</td>
+        <td>วัชระ สุขชุม</td>
+        <td>เจนนี่</td>
+        <td><img src="https://s359.kapook.com/pagebuilder/13ec4d63-a964-4c0b-bfe9-23948a323d2b.png" width="145px"></td>
+        <td><a href="https://twitter.com/JenniePanhan?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">twitter</a></td>
          
+               

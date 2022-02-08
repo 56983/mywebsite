@@ -23,4 +23,4 @@
         <td>สไปรท์ บะบะบิ</td>
         <td><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.komchadluek.net%2Fentertainment%2F490380&psig=AOvVaw3YrPUfXFfqY93J2fzte2Ne&ust=1644395025908000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCRp4rX7_UCFQAAAAAdAAAAABAX.jpeg" width="130px"></td>
         <td><a href="https://https://twitter.com/SpriteBABABI?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor>twitter</a></td>
-        <tr>          
+                

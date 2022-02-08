@@ -29,5 +29,10 @@
         <td>เจนนี่</td>
         <td><img src="https://s359.kapook.com/pagebuilder/13ec4d63-a964-4c0b-bfe9-23948a323d2b.png" width="145px"></td>
         <td><a href="https://twitter.com/JenniePanhan?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">twitter</a></td>
-         
+      <tr>
+        <td>4</td>
+        <td>ปราโมทย์ ปาทาน</td>
+        <td>โอ๊ต</td>
+        <td><img src="https://www.thebangkokinsight.com/wp-content/uploads/2021/10/batch_%E0%B9%82%E0%B8%AD%E0%B9%8A%E0%B8%95-%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B9%82%E0%B8%A1%E0%B8%97%E0%B8%A2%E0%B9%8C2.jpg" width="145px"></td>
+        <td><a href="https://twitter.com/oatpramote">twitter</a></td>
                

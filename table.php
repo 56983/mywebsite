@@ -17,8 +17,8 @@
         <td>ขม</td>
         <td><img src="https://asianwiki.com/images/e/e8/Song_Joong-Ki-p002.jpeg" width="130px"></td>
         <td><a href="https://twitter.com/sjk_kith?lang=en">twitter</a></td>
-        <tr>
-          <td>2</td>
+       <tr>
+        <td>2</td>
         <td>พัชร์ธีรัตน์ แหลมหลวง</td>
         <td>สไปรท์ บะบะบิ</td>
         <td><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.komchadluek.net%2Fentertainment%2F490380&psig=AOvVaw3YrPUfXFfqY93J2fzte2Ne&ust=1644395025908000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCRp4rX7_UCFQAAAAAdAAAAABAX.jpeg" width="130px"></td>

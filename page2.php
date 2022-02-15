@@ -5,22 +5,17 @@
 			#box1{
 				width: 800px;
 				height: 350px;
+				color : blue
 			}
-			#box2{
-				width: 600px;
-				height: 150px;
-			}
-			.box{
-				background-color: green;
+			body{
+				background-color: pink;
 			}
 		</style>
 	</head>
 	<body>
 		<div id="box1" class="box">
-			<h1>กล่องที่ 1</h1>
-		</div>
-		<div id="box2" class="box">
-			<h1>กล่องที่ 2</h1>
+			<h1>น.ส.กัญญาวีร์ ชัยสิทธิ์ เลขที่ 10 ม.4/13</h1>
+		
 		</div>
 	</body>
 </html>

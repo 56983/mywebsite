@@ -5,11 +5,16 @@
 			#box1{
 				width: 800px;
 				height: 350px;
-				color : blue
 			}
+			.box{
+				background-color: blue;
+			}
+			
 			body{
 				background-color: pink;
 			}
+			h1{
+				color:yellow;
 		</style>
 	</head>
 	<body>

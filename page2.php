@@ -1,10 +1,10 @@
 <head>
 		<title>การตกแต่งเว็บไซต์ด้วย CSS</title>
 		<style>
-			#text1{
+			.text1{
 				color:green;
 			}
-			#text2{
+			.text2{
 				color:yellow;
 			}
 		</style>

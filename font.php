@@ -13,15 +13,12 @@
       src: url(FCFlexica[Non-commercial]-Bold.woff)
     }
     #font1{
-       font-family: myFont1;
-    }
-     #font2{
-       font-family: myFont2;
+	font-family: myFont1;    
     }
   </style>
 </head>
 <body>
-  <h1>ฟอนต์เดิม</h1>
-  <h1 id="font">ฟอนด์ใหม่</h1>
+  <h1 id="font1">นางสาวกัญญาวีร์ ชัยสิทธิ์ ม.4/13 เลขที่ 10 เลขประจำตัว 88888</h1>
+  <h1 id="font2">นางสาวกัญญาวีร์ ชัยสิทธิ์ ม.4/13 เลขที่ 10 เลขประจำตัว 88888</h1>
 </body>
 </html>
